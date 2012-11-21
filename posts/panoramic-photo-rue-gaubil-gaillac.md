@@ -3,7 +3,7 @@ title: '[Panoramic Photo] Rue Gaubil, Gaillac'
 date: '2012-09-27'
 description:
 categories: 
-tags: [ My Camera ] 
+tags: [ My Camera, perso ] 
 
 ---
 

@@ -2,8 +2,8 @@
 title:
 date: '2012-10-03'
 description: "Mini-Tutorial explains how to install [typeScript][2] on Mac OS X easily "
-categories: Tutorials 
-
+categories: Tutorials  
+tags: [ typescript, mac ] 
 ---
 
 
