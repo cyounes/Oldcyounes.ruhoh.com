@@ -4,7 +4,6 @@ description: "Showcasing all my past and current projects."
 
 ---
 
- ![][1]
 
 
 In this page i share my projects and programming ideas, currently there are only 6 but maybe i’ll add others. Anyway I hope you find some fun and inspiring stuff here.
