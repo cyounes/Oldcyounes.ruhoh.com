@@ -4,7 +4,7 @@ description:
 ---
 
 
-<img style="float: left; margin: 10px" src="{{urls.media}}/cyounes_new.png" />
+<img width="200" style="float: right; margin: 10px" src="{{urls.media}}/me_with_computer_f.jpg" />
 
 I’m very passionate about technologies, programming languages and algorithms.
 
