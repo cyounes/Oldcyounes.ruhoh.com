@@ -28,7 +28,8 @@ onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501leBmjuTu
 return false;"
 href="http://www.google.com/recaptcha/mailhide/d?k=01leBmjuTu-80babsDNgZAaA==&amp;c=bsHTcqxIxzO-SHo3lFWlaRijisUeatfh7mk55AweBxA=">&#8230;</a>@gmail.com
 
-### Irc nicknames: `cYounes` , `Break` , `Express` 
+### Irc nicknames: 
+at freenode.net & epiknet.org `cYounes` , `Break`  
 
 ### Social network:
 - Twitter: [@cYounes][6]

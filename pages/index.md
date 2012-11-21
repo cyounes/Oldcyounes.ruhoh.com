@@ -16,7 +16,7 @@ knowledge of: C/C++, OCaml, Java, Python, SQL, Shell Script, html, CSS, XML
 interested in:  ![\LaTeX][2], Ruby, Awk
 
  [1]: http://www.google.com/#q=cYounes
- [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=ffffff&fg=000000&s=0 "\LaTeX"
+ [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=222222&fg=ffffff&s=0 "\LaTeX"
 
 ---------------------------
 # What can you find here?
