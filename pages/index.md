@@ -11,12 +11,12 @@ I setup this website mainly to distribute information to my friends and collect 
 
 I am a person who has high passion in programing and development, and have been loving every minute of it, one of my dreams is to master all the development technologies and become one of the top developers in the world, and now, i am working toward it!
 
-knowledge of: C/C++, OCaml, Java, Python, SQL, Shell Script, html, CSS, XML
+knowledge of: `C/C++`, `OCaml`, `Java`, `Python`, `SQL`, `Shell Script`, `html`, `CSS`, `XML`
 
-interested in:  ![\LaTeX][2], Ruby, Awk
+interested in:  ![\LaTeX][2], `Ruby`, `Awk`
 
  [1]: http://www.google.com/#q=cYounes
- [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=222222&fg=ffffff&s=0 "\LaTeX"
+ [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=111111&fg=ffffff&s=0 "\LaTeX"
 
 ---------------------------
 # What can you find here?
