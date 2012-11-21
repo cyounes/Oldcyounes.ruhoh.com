@@ -15,12 +15,13 @@ I’m currently available for programming or development opportunities. I prefer
 if you are interested in my [CV][2] Feel free to [email me][3] for request it or just get in touch. I also have a [LinkedIn profile][4]. For news and updates, subscribe the [RSS feed][5] or follow [me on Twitter][6].
 
 ------------------
-## Contact : 
+# Contact : 
 <a href="https://twitter.com/intent/tweet?screen_name=cYounes"
 class="twitter-mention-button" data-size="large" data-related="cYounes"
 data-dnt="true">Tweet to @cYounes</a>
 <script>!function(d,s,id){var
 js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 
 ### Email:
 youn<a title="Reveal this e-mail address"
