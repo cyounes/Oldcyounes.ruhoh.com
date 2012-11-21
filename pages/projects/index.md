@@ -72,7 +72,7 @@ this language.
 
 More to come. Enjoy!
 
- [1]: {{urls.media}}/1198_166_programmation_iphone_os_3_par_thomas_sarlandie-125x125.png "1198_166_programmation_iphone_os_3_par_thomas_sarlandie"
+ [1]: {{urls.media}}/projectsb.jpeg "1198_166_programmation_iphone_os_3_par_thomas_sarlandie"
  [2]: http://cyounes.github.com/termcolor/
  [3]: http://cyounes.github.com/basicmenu/
  [4]: http://cyounes.github.com/jmbs/
