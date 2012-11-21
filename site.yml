@@ -1,16 +1,14 @@
-title : Blog Title
-tagline: Blog Tagline
+title : cYounes
+tagline: Personal website
 author :
-  name : Firstname Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Cheikh Younes
+  email : younes.cheikh@gmail.com
+  github : cyounes
+  twitter : cyounes
+  feedburner : cyounes
 
 navigation :
-  - archive.html
-  - tags.html
-  - categories.html
-  - pages.html
+  - projects/index.md
   - about.md
+  - archive.html
   
