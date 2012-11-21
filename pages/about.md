@@ -16,10 +16,12 @@ if you are interested in my [CV][2] Feel free to [email me][3] for request it or
 
 ------------------
 ## Contact : 
-<p><a href="https://twitter.com/intent/tweet?screen_name=cYounes"
-class="twitter-mention-button">Tweet to @cYounes</a><br />
+<a href="https://twitter.com/intent/tweet?screen_name=cYounes"
+class="twitter-mention-button" data-size="large" data-related="cYounes"
+data-dnt="true">Tweet to @cYounes</a>
 <script>!function(d,s,id){var
-js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></p>
+js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
 ### Email:
 youn<a title="Reveal this e-mail address"
 onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501leBmjuTu-80babsDNgZAaA\75\75\46c\75bsHTcqxIxzO-SHo3lFWlaRijisUeatfh7mk55AweBxA\075',
