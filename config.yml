@@ -2,7 +2,7 @@
 # Usage: http://ruhoh.com/usage/configure/ 
 
 RuhohSpec: '1.0'
-theme : hooligan
+theme : twitter
 production_url : http://cyounes.com
 
 posts:
