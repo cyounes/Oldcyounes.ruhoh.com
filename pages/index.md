@@ -1,6 +1,7 @@
 ---
 title: Home
 description:
+tagline: echo "Bonjour le monde!"  
 ---
 
 

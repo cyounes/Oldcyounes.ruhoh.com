@@ -6,9 +6,10 @@ theme : hooligan
 production_url : http://cyounes.com
 
 posts:
-  permalink: /:categories/:title/
+  permalink: /:categories/:title
   summary_lines: 0
   latest: 3
 
 pages:
   permalink: 'pretty'
+

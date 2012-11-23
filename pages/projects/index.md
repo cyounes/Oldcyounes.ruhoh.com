@@ -1,6 +1,7 @@
 ---
 title: "Projects" 
 description: "Showcasing all my past and current projects."
+tagline: "All of my projects are Open Source."
 
 ---
 

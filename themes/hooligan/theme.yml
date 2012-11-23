@@ -16,7 +16,7 @@
     ],
    
     "widgets" : {
-      "google_prettify" : "sunburst.css"
+      "google_prettify" : "sunburst-custom.css"
     }    
   },
 
