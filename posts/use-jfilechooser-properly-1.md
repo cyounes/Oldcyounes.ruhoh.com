@@ -1,10 +1,11 @@
 ---
-title: How to use JFileChooser properly (1) 
+title: How to use JFileChooser properly 
 date: '2012-11-25'
 description: "Tutorial explains how to use JFileChooser on Java/Swing properly
 to open/save file" 
 categories: [ Tutorials ]
 tags: [ Java, Swing, Programming ]
+tagline: Part 1
 
 ---
 
