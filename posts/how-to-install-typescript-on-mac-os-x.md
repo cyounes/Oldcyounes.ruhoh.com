@@ -16,42 +16,46 @@ The following steps are tested on OS X Mountain Lion 10.8.2
 
 ## 1. install [Homebrew][3]:
 
-    $ ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
+<pre>
+$ ruby -e "$(curl -fsSkL raw.github.com/mxcl/homebrew/go)"
+</pre>
 
 ## 2. Install [nodejs][4] using home-brew:
-
-    $ brew install nodejs
+<pre>
+$ brew install nodejs
+</pre>
 
 ## 3. get and install npm:
-
-    $ curl https://npmjs.org/install.sh | sh
+<pre>
+$ curl https://npmjs.org/install.sh | sh
+</pre>
 
 ![]({{ urls.media }}/install_npm.png)
 
 ## 4. get TypeScript:
-
-    $ npm install -g typescript
+<pre>
+$ npm install -g typescript
+</pre>
 
 ![]({{ urls.media }}/install_typescript.png)
 ## 5. Test TypeScript:
 
 In your editor, type the following JavaScript code in greeter.ts:
-
-    function greeter(person) {
-     return "Hello, " + person;
-     }
-    
-    var user = "Jane User";
-    
-    document.body.innerHTML = greeter(user);
-    
+<pre>
+function greeter(person) {
+  return "Hello, " + person;
+}    
+var user = "Jane User";   
+document.body.innerHTML = greeter(user);
+</pre>    
     
 
 ## 6. Compile the code:
 
 At the command line, run the TypeScript compiler:
-
-    $ tsc greeter.ts
+<pre>
+$ tsc greeter.ts
+</pre>
 
 The result will be a file greeter.js which contains the same JavaScript that you fed in.
 
