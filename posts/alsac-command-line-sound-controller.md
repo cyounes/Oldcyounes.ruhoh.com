@@ -9,7 +9,7 @@ When i've installed ubuntu with openbox window manager, there were no task bars
 and no menus. that was a problem for me to control the sound using command line.
 To solve this i wrote some lines quickly to create a simple and easy command line tool allows me to control sound volume.
 
-`alsac` works only with alsa devices and tested only on Ubuntu 12.10, based on
+`alsac` works only with **alsa** devices and tested only on Ubuntu 12.10, based on
 `alsa` command and its parmeters.
 
 ## Installation:
