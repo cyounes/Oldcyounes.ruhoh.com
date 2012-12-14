@@ -1,7 +1,7 @@
 ---
 title: Home
 description:
-tagline: while(!(succeed == try()) 
+tagline: while(!(succeed == try())) 
 ---
 
 
