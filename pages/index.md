@@ -1,7 +1,7 @@
 ---
 title: Home
 description:
-tagline: echo "Bonjour le monde!"  
+tagline: while(!(succeed == try()) 
 ---
 
 
