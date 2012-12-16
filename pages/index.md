@@ -5,7 +5,7 @@ tagline: while(!(succeed == try()))
 ---
 
 
-Hi, My name is Younes and i’m a programmer and a blogger, also known online as [cYounes][1]. I started my computing career in 2001 when i had my first personal computer. Currently staying in france and studying computer sciences.
+Hi, My name is Younes and i’m a programmer and a blogger, also known online as [cYounes][1]. Currently staying in France, i studied computer sciences at [JF Champollion University][3]. I started my computing career in 2001 when i had my first personal computer.
 
 <img style="float: left; margin: 10px" src="{{urls.media}}/cyounes_new.png" />
 I setup this website mainly to distribute information to my friends and collect experiences with webpage programing.
@@ -18,7 +18,7 @@ interested in:  ![\LaTeX][2], `Ruby`, `Awk`
 
  [1]: http://www.google.com/#q=cYounes
  [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=111111&fg=ffffff&s=0 "\LaTeX"
-
+ [3]: http://www.univ-jfc.fr 
 ---------------------------
 # What can you find here?
 
