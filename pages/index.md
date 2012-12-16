@@ -7,7 +7,7 @@ tagline: while(!(succeed == try()))
 
 Hi, My name is Younes and i’m a programmer and a blogger, also known online as [cYounes][1]. Currently staying in France, i studied computer sciences at [JF Champollion University][3]. I started my computing career in 2001 when i had my first personal computer.
 
-<img style="float: left; margin: 10px" src="{{urls.media}}/cyounes_new.png" />
+<img style="float: left; margin: 10px" src="{{urls.media}}/younes_cheikh_.jpg" />
 I setup this website mainly to distribute information to my friends and collect experiences with webpage programing.
 
 I am a person who has high passion in programing and development, and have been loving every minute of it, one of my dreams is to master all the development technologies and become one of the top developers in the world, and now, i am working toward it!
