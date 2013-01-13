@@ -18,7 +18,7 @@ interested in:  ![\LaTeX][2], `Ruby`, `Awk`
 
  [1]: http://www.google.com/#q=cYounes
  [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=111111&fg=ffffff&s=0 "\LaTeX"
- [3]: http://www.univ-jfc.fr 
+ [3]: http://www.univ-jfc.fr/en/champollion-university 
 ---------------------------
 # What can you find here?
 
