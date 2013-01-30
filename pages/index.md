@@ -20,7 +20,7 @@ interested in:  ![\LaTeX][2], `Ruby`, `Awk`
  [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=111111&fg=ffffff&s=0 "\LaTeX"
  [3]: http://www.univ-jfc.fr/en/champollion-university 
 ---------------------------
-## What can you find here?
+### What can you find here?
 
 I'm not a perfectionist in this regard however, i just want to share my knowledge with you, computer programming, softwares, tutorials and more stuff. Also in [this page](/projects), you find some open source projects that I have developed.
 
