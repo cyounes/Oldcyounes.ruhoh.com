@@ -1,0 +1,33 @@
+{
+  "stylesheets" : {
+    "default" : [
+      # "bootstrap.min.css",
+      # "font-awesome/font-awesome.min.css",
+      # "style.css"
+      # "style.min.css"
+      "site.min.css"
+    ],
+
+    "widgets" : {
+      "google_prettify" : "twitter-bootstrap.css"
+    }
+
+  },
+
+  "javascripts" : {
+    "default" : [
+      # "jquery.min.js"
+      "site.min.js"
+    ]
+  },
+
+  "manifest" : {
+    "name" : "brandon",
+    "description" :  "A clean, minimal theme for Ruhoh/Jekyll",
+    "author" : {
+      "name" : "Brandon Parsons",
+      "email" : "parsons.brandon@gmail.com",
+      "website" : "http://brandonparsons.me"
+    }
+  }
+}

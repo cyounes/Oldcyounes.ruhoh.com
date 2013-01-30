@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>
+      {{#page.title}}
+        {{page.title}}
+      {{/page.title}}
+      {{^page.title}}
+        Brandon Parsons
+      {{/page.title}}
+    </title>
+  {{# page.description }}
+    <meta name="description" content="{{ . }}">
+  {{/ page.description }}
+    <meta name="author" content="{{ site.author.name }}">
+
+    <link href="http://brandonparsons.me/feed.xml" rel="alternate" title="ATOM" type="application/atom+xml" />
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    {{{ assets }}}
+
+    <!-- Update these with your own images
+      <link rel="shortcut icon" href="images/favicon.ico">
+      <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+      <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+      <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+    -->
+    <meta name="google-site-verification" content="Xl1oQ4K04moBN8iknJ1MwU0P9w51MHjp6yjUHaB4T_g" />
+  </head>
+
+  <body>
+
+    <!-- For Twitter Widgets -->
+    <script type="text/javascript" charset="utf-8">
+      window.twttr = (function (d,s,id) {
+        var t, js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return; js=d.createElement(s); js.id=id;
+        js.src="//platform.twitter.com/widgets.js"; fjs.parentNode.insertBefore(js, fjs);
+        return window.twttr || (t = { _e: [], ready: function(f){ t._e.push(f) } });
+      }(document, "script", "twitter-wjs"));
+    </script>
+
+    <div class='wrapper'>
+
+    <div class="container">
+      <div class='span3 sidebar'>
+        <div class='push-down'><h2><a id='blog-title' href='/'>Thinking Differently</a></h2></div>
+        <div class='push-down' id='tagline'><h3><a href='/'>{{ site.tagline }}</a></h3></div>
+        <div class='push-down'><a id='brand' rel='author' href="/about/">Brandon Parsons</a></div>
+        <ul id='sidebar-links'>
+          {{# site.author.twitter }}
+            <li class='social-links'>
+              <a href="https://twitter.com/intent/user?screen_name={{ site.author.twitter }}" id='twitter-link'><i class='icon-twitter-sign'></i></a>
+            </li>
+          {{/ site.author.twitter }}
+          {{# site.author.facebook }}
+            <li class='social-links'>
+              <a href="http://www.facebook.com/{{ site.author.facebook }}" target="_blank" id='facebook-link'><i class="icon-facebook-sign"></i></a>
+            </li>
+          {{/ site.author.facebook }}
+          {{# site.author.googleplus }}
+            <li class='social-links'>
+              <a href="https://profiles.google.com/{{ site.author.googleplus }}" target="_blank" id='googleplus-link'><i class="icon-google-plus-sign"></i></a>
+            </li>
+          {{/ site.author.googleplus }}
+          {{# site.author.linkedin }}
+            <li class='social-links'>
+              <a href="http://www.linkedin.com/in/{{ site.author.linkedin }}" target="_blank" id='linkedin-link'><i class="icon-linkedin-sign"></i></a>
+            </li>
+          {{/ site.author.linkedin }}
+          {{# site.author.github }}
+            <li class='social-links'>
+              <a href="https://www.github.com/{{ site.author.github }}" target="_blank" id='githb-link'><i class="icon-gihub-sign"></i></a>
+            </li>
+          {{/ site.author.github }}
+        </ul>
+        <ul id='page-links'>
+          <li><a href="/about/">About</a></li>
+          <li><a href="/projects/">Projects</a></li>
+          <li><a href="/contact/"><i class="icon icon-envelope"></i>&nbsp;Contact</a></li>
+          {{# site.author.feed }}
+            <li class='page-links'>
+              <a href="{{ site.author.feed }}" target="_blank" id='feed-link'><i class="icon icon-rss"></i>&nbsp;Feed</a>
+            </li>
+          {{/ site.author.feed }}
+        </ul>
+      </div> <!-- Span 3 -->
+
+      <div class="span9 content">
+        {{{ content }}}
+      </div> <!-- span 9 -->
+
+    </div> <!-- /container -->
+    <div class='row' style='min-height:10px;'></div>
+    <div class='push'></div>
+    </div> <!-- wrapper -->
+
+    <div class='footer'>
+      <p>
+        &copy; <a href="/">{{ site.author.name }}</a> 2012 |
+        <a href="/archive/">Archives</a> |
+        <a href="/tags/">Tags</a> |
+        <a href="/privacy/">Privacy Policy</a>
+      </p>
+    </div> <!-- footer -->
+
+    {{{ google_prettify }}}
+    {{# site.google.tracking_id}}
+      {{> analytics }}
+    {{/ site.google.tracking_id}}
+  </body>
+</html>

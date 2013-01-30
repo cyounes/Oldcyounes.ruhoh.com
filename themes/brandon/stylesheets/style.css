@@ -1,0 +1,419 @@
+/* To minify: */
+/* $ juicer merge style.css */
+
+/****** PAGE LAYOUT *******/
+
+/*FOOTER*/
+
+.footer {
+  text-align: center;
+}
+
+.footer li {
+  display:block;
+  float:left;
+}
+
+.footer p {line-height:25px;}
+
+/* Sticky footer and footer styling */
+/* CSS - see : http://ryanfait.com/resources/footer-stick-to-bottom-of-page/ */
+* {
+  margin: 0;
+}
+  html, body {
+  height: 100%;
+}
+
+.wrapper {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  margin: 0 auto -25px;
+}
+.footer, .push{
+  height: 25px;
+  clear: both;
+}
+
+/*SIDEBAR AND CONTENT LAYOUT*/
+
+@media (min-width: 980px) {
+  .sidebar {
+    padding-top:30px;
+    position:fixed;
+    top:60px;
+    margin-left:0px;
+    float:left;
+  }
+
+  .content {
+    float:right;
+    padding-left:10px;
+    padding-right:10px;
+    margin-top:10px;
+    border-left: 1px solid #ccc;
+    min-height:600px;
+  }
+}
+
+.sidebar li {
+  list-style:none;
+}
+
+
+/****** END PAGE LAYOUT *******/
+
+/****** STYLING *******/
+
+p, h1, h2, h3, h4, h5, h6, a, span {
+  -webkit-font-smoothing:antialiased;
+}
+
+/*BLOG POSTS*/
+
+#social-share-box td {min-width:100px;}
+
+/*TAGS PAGE*/
+.tag-header {font-size:25px;}
+
+/* SIDEBAR */
+
+#sidebar-links a {
+  color: #666;
+}
+
+#sidebar-links a:hover {
+  color:#333;
+  text-decoration:none;
+}
+
+#sidebar-links {
+  margin-left:10px;
+}
+
+#sidebar-links li {
+  display:inline;
+}
+
+/*social*/
+
+.social-links a {
+  font-size:35px;
+  color:#666;
+}
+
+#social-links {
+  margin-bottom:0px;
+  min-height:60px;
+}
+
+.icon-twitter-sign:hover {
+  color: #46C0FB;
+}
+
+.icon-google-plus-sign:hover {
+  color: #DD4B39;
+}
+
+.icon-facebook-sign:hover {
+  color: #4863AE;
+}
+
+.icon-linkedin-sign:hover {
+  color: #0083A8;
+}
+
+.icon-rss:hover {
+  color:#FF7F25;
+}
+
+#feed-link:hover {
+  color:#FF7F25 !important;
+}
+
+#brand {
+  font-size:20px;
+  color:#585858;
+}
+
+#brand:hover {
+  color:#333;
+  text-decoration: none;
+}
+
+.push-down { margin-bottom: 10px; }
+
+#blog-title {
+  font-weight:bold;
+  color:#333;
+}
+
+#tagline a {
+  font-size:17px;
+  line-height:25px;
+  color:#585C60;
+}
+
+#tagline a:hover {
+  text-decoration: none;
+  color:#333;
+}
+
+#tagline h3 {
+  font-weight: normal;
+  padding-right:10px;
+  margin-bottom:25px;
+}
+
+#blog-title:hover {
+  color:#585C60;
+  /*text-decoration: underline;*/
+  text-decoration: none;
+}
+
+#sidebar-links {
+  margin-top:20px;
+}
+
+#sidebar-links li {
+  margin-bottom:10px;
+}
+
+/*pages*/
+#page-links {
+  margin-top:30px;
+  margin-left:0px;
+}
+
+#page-links li { margin-bottom: 30px;}
+
+#page-links a {
+  font-size:15px;
+  line-height:15px;
+  border: 4px solid #E0DEDE;
+  padding:7px;
+  padding-left:15px;
+  padding-right:15px;
+  color:#585C60;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  border-radius: 20px;
+}
+
+#page-links a:hover {
+  color:#333;
+  border: 4px solid #585858;
+  text-decoration: none;
+}
+
+#feed-link:hover {
+  border: 4px solid #FF7F25 !important;;
+}
+
+/*INDIVIDUAL POST PAGES*/
+
+.post-content h2 {
+  margin-bottom: 10px;
+}
+
+pre.prettyprint {
+  margin-top:10px;
+}
+
+/*Push down the body on entries on the index page only*/
+.index-page-post {margin-top:10px !important;}
+
+/* Page header tweaks */
+.page-header {
+  border-bottom: 1px solid #ccc;
+  padding: 20px 20px 20px;
+  margin: 0px;
+  margin-bottom:15px;
+}
+
+#post-published {
+  display:inline;
+  font-size:14px;
+}
+
+#tags-title {
+  display:inline;
+  font-size:14px;
+  padding: 5px 0;
+}
+
+#post-pagination {
+  font-size:12px;
+}
+
+#page-tags .tag_entry, #page-tags a {
+  font-size:14px !important;
+}
+
+/* HOME & INDEX PAGE POST STYLING */
+
+#index-page-posts h1 {font-size:18px; margin-bottom:5px;}
+#index-page-posts h2 {font-size:18px; margin-bottom:5px;}
+#index-page-posts h3 {font-size:16px;}
+#index-page-posts h4 {font-size:14px;}
+#index-page-posts h5 {font-size:14px;}
+#index-page-posts h6 {font-size:14px;}
+
+#latest-posts {
+  padding-top:20px;
+  padding-left:20px;
+  padding-right:20px;
+  padding-bottom:0px;
+  margin: 0px;
+}
+
+.post-meta {
+  padding-top:5px;
+  border-top:3px solid #eee;
+  margin-top:10px;
+  position: relative;
+}
+
+.post h2.title, .post span.date {
+  margin-top:10px;
+  margin-bottom: 10px;
+  line-height: 25px !important;
+}
+
+.post h2.title {
+  font-size:20px !important;
+  float:left;
+}
+
+.post span.date {
+/*  position:absolute;
+  right:0;*/
+  float:right;
+  font-size:15px !important;
+  font-style:italic;
+  color:#888;
+}
+
+.post > .more {
+  margin:10px 0;
+  text-align:left;
+  font-weight:bold;
+}
+
+/*TAG BOX*/
+
+.tag_box {
+  list-style:none;
+  margin:0;
+  padding:5px 0 ;
+  overflow:hidden;
+}
+.tag_box li {
+  line-height:28px;
+  display:block;
+  float:left;
+}
+.tag_box.inline li {
+  float:left;
+}
+.tag_box a {
+  padding: 3px 6px;
+  margin: 2px;
+  background: #eee;
+  color:#005F6B;
+  border-radius: 3px;
+  text-decoration:none;
+}
+.tag_box a span{
+  vertical-align:super;
+  font-size:0.8em;
+}
+.tag_box a.active {
+  background:#57A957;
+  border:1px solid #4C964D;
+  color:#FFF;
+}
+
+.tag-entry {
+  display:inline;
+}
+
+/*FOOTER*/
+
+.footer {
+  background-color: #ccc;
+}
+
+.footer a {
+  color:#333;
+  text-decoration:underline;
+}
+
+.footer a:hover {
+  color:#333;
+}
+
+/*CONTACT FORM PAGE*/
+
+#website-input {display:none;}
+
+/*IMAGES*/
+.post-content img {
+  border: solid 1px #CCC;
+  -moz-box-shadow: 1px 1px 5px #999;
+  -webkit-box-shadow: 1px 1px 5px #999;
+  box-shadow: 1px 1px 5px #999;
+}
+
+/*ADJUST WHAT SHOWS UP ON MOBILE DEVICES*/
+@media (max-width: 979px) {
+  #page-links > li {display:inline;}
+  #tagline h3 {margin-bottom: 0px;margin-top:0px;line-height:20px;}
+  #page-links {margin-top:20px;}
+  .page-header {padding-top: 10px;padding-bottom: 5px;}
+  #sidebar-links {margin-top:0px;}
+}
+
+/*@media (min-width: 767px) and (max-width: 979px) {*/
+@media (min-width: 767px) and (max-width: 979px) {
+  #page-links {min-width:767px !important;}
+  .sidebar {min-width: 767px !important;}
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width: 767px) {
+  #page-links {min-width:480px !important;}
+  .sidebar {min-width: 480px !important;}
+  .post .date-container {
+    display:none;
+  }
+}
+
+/* Landscape phones and down */
+@media (max-width: 480px) {
+  #page-links {min-width:310px !important;}
+  .sidebar {min-width: 310px !important;}
+}
+
+@media (max-width: 435px) {
+  #page-links a {
+    border:none;
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    padding-left:0px;
+    padding-right:0px;
+    text-decoration: underline;
+  }
+  #page-links a:hover {
+    border:none;
+  }
+  #feed-link:hover {
+    border:none !important;
+    color:#585C60 !important;
+  }
+  #page-links a i {text-decoration: none;}
+
+  /*.post .title a, .title > span {display:block;}*/
+}
