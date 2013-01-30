@@ -2,7 +2,7 @@
 # Usage: http://ruhoh.com/usage/configure/ 
 
 RuhohSpec: '1.0'
-theme : elegance
+theme : dinky
 production_url : http://cyounes.com
 
 posts:
