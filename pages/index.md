@@ -17,7 +17,7 @@ knowledge of: `C/C++`, `OCaml`, `Java`, `Python`, `SQL`, `Shell Script`, `html`,
 interested in:  ![\LaTeX][2], `Ruby`, `Awk`
 
  [1]: http://www.google.com/#q=cYounes
- [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=111111&fg=ffffff&s=0 "\LaTeX"
+ [2]: http://s.wordpress.com/latex.php?latex=%5CLaTeX&bg=FFFFFF&fg=B6002F&s=0 "\LaTeX"
  [3]: http://www.univ-jfc.fr/en/champollion-university 
 ---------------------------
 ### What can you find here?
