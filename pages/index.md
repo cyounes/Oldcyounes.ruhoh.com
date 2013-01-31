@@ -1,5 +1,5 @@
 ---
-title: 
+title: Home Page
 description: Personal Website
 tagline: while(!(succeed == try())) 
 ---
