@@ -1,6 +1,6 @@
 ---
-title: Home
-description:
+title: 
+description: Personal Website
 tagline: while(!(succeed == try())) 
 ---
 
