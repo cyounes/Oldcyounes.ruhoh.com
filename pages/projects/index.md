@@ -12,6 +12,9 @@ In this page i share my projects and programming ideas, currently there are only
 
 ---------
 ---------
+- [WalletixJavaApi][10] & [WalletixPythonApi][11]
+  A Java & Python API for [Walletix](https://walletix.com) online payment service.  
+---------
 - [alsac][9]
   Simple command line tool to control alsa devices sound on linux.
 
@@ -84,4 +87,6 @@ More to come. Enjoy!
  [6]: http://cyounes.github.com/Cryptarithms-Solver/
  [7]: http://cyounes.github.com/Sudoku-Solver/
  [8]: http://cyounes.github.com/Marienbad-Game/
- [9]: https://github.com/cyounes/alsac 
+ [9]: https://github.com/cyounes/alsac
+ [10]: https://github.com/cyounes/WalletixJavaApi
+ [11]: https://github.com/cyounes/WalletixPythonApi
