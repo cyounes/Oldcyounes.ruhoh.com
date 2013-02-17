@@ -4,8 +4,6 @@ description:
 ---
 
 
-<img width="200" style="float: right; margin: 10px" src="{{urls.media}}/me_with_computer_f.jpg" />
-
 I’m very passionate about technologies, programming languages and algorithms.
 
 I’m C-addicted, I’ve been studying regularly with C language since 2009, with knowledge of Java, Python, Caml, SQL,  PHP, html, css, Shell and much more.
