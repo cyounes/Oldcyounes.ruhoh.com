@@ -69,7 +69,7 @@ In this page i share my projects and programming ideas, currently there are only
 
 ## Current Projects
 Currently, i'm working to develop an **OCaml IDE**, the alpha version will
-be available on the beginning of 2013 for testers and students learn
+be available on ~~the beginning of~~ June 2013 for testers and students learn
 this language.
 
 
