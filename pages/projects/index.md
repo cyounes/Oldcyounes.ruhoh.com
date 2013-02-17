@@ -12,48 +12,47 @@ In this page i share my projects and programming ideas, currently there are only
 
 ---------
 ---------
-- [WalletixJavaApi][10] & [WalletixPythonApi][11]
-  
-      A Java & Python API for [Walletix](https://walletix.com) online payment service.  
+#### [WalletixJavaApi][10] & [WalletixPythonApi][11]
+  A Java & Python API for [Walletix](https://walletix.com) online payment service.  
 
 ---------
-- [alsac][9]
+#### [alsac][9]
   Simple command line tool to control alsa devices sound on linux.
 
 -----
 
-- [Termcolor][2]
+#### [Termcolor][2]
   C/C++ library used for ANSII Color formatting for Linux/Mac terminal output.
 
 -----
 
-- [Basicmenu Library][3]
+#### [Basicmenu Library][3]
   an open source library coded in C,
   allows the programmer to create and display a menu easily in his/her console application
   on linux and mac os x, works with C/C++ programs.
 
 -----
 
-- [jMBS][4]
+#### [jMBS][4]
   Java Micro Blogging System, free and open source software, 
   Currently allows to create a mini platform for a local social network. 
 
 -----
 
-- [Boxman Puzzle][5]
+#### [Boxman Puzzle][5]
   transport puzzle in witch the player pushed boxes around a maze,
   viewed from above, and tries to put them in designated location.
   Only one box may be pushed at a time, and boxes cannot be pulled.
 
 -----
 
-- [Cryptarithms Solver][6]
+#### [Cryptarithms Solver][6]
   Cryptarithms are a type of mathematical puzzle in which the digits are replaced
   bye symbols (typically letters of the alphabet).
 
 -----
 
-- [Sudoku Solver][7]
+#### [Sudoku Solver][7]
   The objective of this program is to fill a 9×9 grid with digits so that each column,
   each row, and each of the nine 3×3 sub-grids that compose the grid (Regions),
   the same single integer may not appear twice in the same 9×9 playing board row or
@@ -61,7 +60,7 @@ In this page i share my projects and programming ideas, currently there are only
 
 -----
 
-- [Marienbad Puzzle][8]
+#### [Marienbad Puzzle][8]
   Marienbad is a mathematical game of strategy in which two players take turns removing objects from distinct heaps.
   On each turn, a player must remove at least one object,
   and may remove any number of objects provided they all come from the same heap. 
