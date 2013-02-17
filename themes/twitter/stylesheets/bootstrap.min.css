@@ -167,16 +167,16 @@ a:hover {
 .container,
 .navbar-fixed-top .container,
 .navbar-fixed-bottom .container {
-  width: 940px;
+  width: 740px;
 }
 .span12 {
-  width: 940px;
+  width: 740px;
 }
 .span11 {
-  width: 860px;
+  width: 660px;
 }
 .span10 {
-  width: 780px;
+  width: 680px;
 }
 .span9 {
   width: 700px;
@@ -206,13 +206,13 @@ a:hover {
   width: 60px;
 }
 .offset12 {
-  margin-left: 980px;
+  margin-left: 780px;
 }
 .offset11 {
-  margin-left: 900px;
+  margin-left: 700px;
 }
 .offset10 {
-  margin-left: 820px;
+  margin-left: 720px;
 }
 .offset9 {
   margin-left: 740px;
