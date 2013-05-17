@@ -13,7 +13,7 @@ In this page i share my projects and programming ideas, currently there are only
 ---------
 ---------
 #### [WalletixJavaApi][10] & [WalletixPythonApi][11]
-  A Java & Python API for [Walletix](https://walletix.com) online payment service.  
+ <img style="float: left;" src="https://lh5.googleusercontent.com/-y7w7zEwEkME/AAAAAAAAAAI/AAAAAAAAADY/jhtiz9xmsdI/photo.jpg" /> A Java & Python API for [Walletix](https://walletix.com) online payment service.  
 
 ---------
 #### [alsac][9]
